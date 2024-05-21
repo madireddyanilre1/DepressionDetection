@@ -1,0 +1,5 @@
+Link:https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-mental-state
+An Electroencephalogram (EEG) is a test used to quantify and log brain electrical activity. It's a non-invasive process that uses tiny electrodes applied to the scalp to identify and magnify electrical signals produced by neurons, which are brain cells. The synchronised activity of neurons interacting with one another produces these signals, which are often known as brainwaves.
+This is a dataset of EEG brainwave data that has been processed with our method of statistical feature extraction.
+This dataset is the output of the extraction of features.
+The data was collected from people for 60 seconds per state - relaxed, concentrating, neutral. 
